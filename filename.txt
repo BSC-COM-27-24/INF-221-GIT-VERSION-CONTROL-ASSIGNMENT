@@ -1,0 +1,5 @@
+HEY, THIS IS INF 221 PRACTICAL ASSIGNMENT 1
+ .make a GitHub Account
+ .connect to git
+ . make commits
+ . log the commits and submit via Google classroom to Mr Mwakabira
