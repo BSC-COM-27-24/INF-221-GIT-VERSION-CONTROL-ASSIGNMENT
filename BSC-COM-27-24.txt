@@ -1,0 +1,11 @@
+* commit dac17cb5f90c58d44faf89445da49d3b2315c19c
+| Author: BSC-COM-27-24 <bsc-com-27-24@unima.ac.mw>
+| Date:   Thu Mar 5 16:49:29 2026 +0200
+| 
+|     Add .gitignore to exclude node_modules, .env, logs, dist
+| 
+* commit 427dfc2a39c0ea0c950c030988cc891dc990d018
+  Author: BSC-COM-27-24 <bsc-com-27-24@unima.ac.mw>
+  Date:   Thu Mar 5 15:55:10 2026 +0200
+  
+      Initial commit: add homepage HTML structure
